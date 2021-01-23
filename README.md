@@ -1,12 +1,18 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning at GoIT Full Stack courses
+- 🔭 I’m currently looking for a job
+- ⚡ Front End (React)
+- 📫 You can contacts me by email: andrii.stanislav@gmail.com
+
 <!--
 **Andrii-Stanislav/Andrii-Stanislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
