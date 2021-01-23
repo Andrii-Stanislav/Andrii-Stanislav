@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning at GoIT Full Stack courses
+- 🌱 I’m currently finishing learning at GoIT Full Stack courses
 - 🔭 I’m currently looking for a job
 - ⚡ Front End (React)
 - 📫 You can contacts me by email: andrii.stanislav@gmail.com
