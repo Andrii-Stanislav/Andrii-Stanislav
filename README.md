@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/stanislav_andrii)
 
 
-- 🌱 I’m currently finishing learning at GoIT Full Stack courses
+
 - ⚡ Front End (React)
 - 📫 You can contacts me by email: andrii.stanislav@gmail.com
 
