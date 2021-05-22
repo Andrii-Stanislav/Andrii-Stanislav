@@ -5,7 +5,7 @@
 
 
 
-- ⚡ Front End (React)
+
 - 📫 You can contacts me by email: andrii.stanislav@gmail.com
 
 ### My stack and tools
